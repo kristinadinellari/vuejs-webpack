@@ -3,7 +3,7 @@ export default{
     return {
       name: 'erigers',
       age: null,
-      born: 1992
+      born: 1996
     }
   },
 
